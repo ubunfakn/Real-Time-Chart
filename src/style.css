@@ -1,0 +1,57 @@
+.nav-link{
+    font-size: 25px;
+}
+
+.navbar-brand{
+    font-size: 45px;
+}
+
+.feature-container .feature-card .feature-body h1{
+    padding: 25px;
+}
+
+.feature-container .feature-card{
+    margin-top: 25%;
+    background-color: orange;
+    color: black;
+    box-shadow: 8px 8px 8px 8px grey;
+}
+
+
+.feature-container .feature-card .feature-body ul{
+    margin-top: 10%;
+    display:flex;
+    flex-direction: column;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.feature-container .feature-card .feature-body ul li{
+    padding: 7px;
+}
+
+.home-title h1{
+    margin-top: 3%;
+    font-size: 295%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-bottom: 25px;
+}
+
+.home-container{
+    min-height: 70vh;
+    height: auto;
+}
+
+.home-container .home-card{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 3%;
+    box-shadow: 8px 8px 8px 8px grey;
+    background-color: white;
+    background-color: yellow;
+    color: black;
+}
